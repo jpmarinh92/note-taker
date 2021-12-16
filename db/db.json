@@ -3,6 +3,16 @@
     {
       "title": "Test Title",
       "text": "Test text"
+    },
+    {
+      "title": "Test title",
+      "text": "test body",
+      "id": "1"
+    },
+    {
+      "title": "Test title 3",
+      "text": "test title 3\n",
+      "id": "3"
     }
   ]
 }
